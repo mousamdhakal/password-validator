@@ -2,6 +2,11 @@
 
 A React application that validates password strength and generates secure passwords.
 
+## Demo
+Live: https://mousamdhakal.github.io/password-validator/
+
+![2025-04-05_20-18](https://github.com/user-attachments/assets/27ab834d-f461-428a-af2a-a4b7e9ef8ff1)
+
 ## Features
 
 - **Password Strength Checker**
